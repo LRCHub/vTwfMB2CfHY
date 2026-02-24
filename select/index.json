@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "SONG FOR TWO",
+  "base_artist": "HIRAIDAI",
+  "createdAt": "2026-02-24T07:08:53.826762Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bonded By Blood (A Song For Two Brothers)",
+      "artist": "Hot Club De Paris",
+      "has_synced": false,
+      "path": "select/01_Bonded_By_Blood_(A_Song_For_Two_Brothers)_Hot_Club_De_Paris.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lighthouse, Song for Two Mothers",
+      "artist": "Archie Roach",
+      "has_synced": false,
+      "path": "select/02_Lighthouse,_Song_for_Two_Mothers_Archie_Roach.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Song For Two",
+      "artist": "Hiroshi Fujiwara",
+      "has_synced": true,
+      "path": "select/03_A_Song_For_Two_Hiroshi_Fujiwara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Song for Two (Sung by One)",
+      "artist": "#1 Dads",
+      "has_synced": true,
+      "path": "select/04_Song_for_Two_(Sung_by_One)_1_Dads.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SONG FOR TWO",
+      "artist": "平井 大",
+      "has_synced": false,
+      "path": "select/05_SONG_FOR_TWO_平井_大.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lighthouse (Song For Two Mothers)",
+      "artist": "Archie Roach",
+      "has_synced": false,
+      "path": "select/06_Lighthouse_(Song_For_Two_Mothers)_Archie_Roach.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SONG FOR TWO",
+      "artist": "HIRAI DAI",
+      "has_synced": false,
+      "path": "select/pl_01_SONG_FOR_TWO_HIRAI_DAI.txt"
+    }
+  ]
+}
